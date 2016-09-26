@@ -9,6 +9,8 @@
     background:#08519c;
 }
 
+.cartodb-searchbox{width:220px;position:absolute;bottom:50px}#map
+
 #title {
     font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
     font-weight:Bold;
